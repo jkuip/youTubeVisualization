@@ -22,7 +22,7 @@ def convertToSeconds(duration):
     return seconds
 
 # youtube channel - place your youtube channelID below
-channelID = 'UCcULRf5ys_TV9x1my9lRXuA'
+channelID = 'UC_abc123'
 
 # youtube API key - get yours at: https://console.developers.google.com/
 API_KEY = 'abc123'
